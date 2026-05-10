@@ -4,5 +4,3 @@ scikit-learn
 pandas
 joblib
 pydantic
-matplotlib
-seaborn
