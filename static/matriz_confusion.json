@@ -1,0 +1,47 @@
+{
+    "labels": [
+        "cs.LG",
+        "cs.CV",
+        "cs.CL",
+        "cs.AI",
+        "cs.RO"
+    ],
+    "matriz": [
+        [
+            1136,
+            54,
+            68,
+            40,
+            8
+        ],
+        [
+            89,
+            933,
+            19,
+            11,
+            13
+        ],
+        [
+            67,
+            23,
+            541,
+            64,
+            0
+        ],
+        [
+            157,
+            47,
+            108,
+            203,
+            8
+        ],
+        [
+            28,
+            29,
+            1,
+            9,
+            280
+        ]
+    ],
+    "descripcion": "Las filas representan las categorías reales y las columnas representan las categorías predichas."
+}
